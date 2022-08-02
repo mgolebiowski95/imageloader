@@ -1,0 +1,3 @@
+include ':image-loader-library-core'
+include ':image-loader-library-filters'
+include ':app'
